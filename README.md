@@ -18,11 +18,19 @@
   <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
-> **Current Bot Version `5.0.0`**  
+---
+
+> **Deploy New Version `5.0.0`**  
 
 ---
 
-*Dont forget to fork & star repo*
+## DEPLOY NEW VERSION
+
+<p align="center">
+  <a href="https://github.com/JawadTechXD/KHAN-MD">
+    <img src="https://img.shields.io/badge/_Deploy_From_New-Repo-ff0000?style=for-the-badge&logo=deploy" alt="Deploy" width="300">
+  </a>
+</p>
 
 ---
 
@@ -70,11 +78,6 @@
   <a href='https://jawadmd-pair.onrender.com/pair' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
-
-  > **QR LINK (03)**
-  <a href='https://jawadmd-pair.onrender.com/qr' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_3-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
   
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
@@ -94,11 +97,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadYT36/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadYT36/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -111,16 +114,33 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/2303" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      <a href="https://github.com/JawadTechXD/KHAN-MD" target="_blank">
+        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>  
 
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/JawadTechXD/KHAN-MD" target="_blank">
+        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
+
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/JawadTechXD/KHAN-MD/archive/refs/heads/main.zip" target="_blank">
+        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
 
 ## 🌟 BOT FEATURES
 
