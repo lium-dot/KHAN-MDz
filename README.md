@@ -10,17 +10,17 @@ KHAN-MD
 
 ---
 
-<h2 align="center">📊 KHAN-MD Analytics </h2> 
+<h2 align="center">📊 KHAN-MD Analytics</h2>  
 
 ---
 
-<div align="center">
+<div align="center">  
 
-<img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Profile+Views&color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Views&color=9D00FF&style=flat-square" />  
+<img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=9D00FF&label=Stars&style=flat-square" />  
+<img src="https://custom-icon-badges.demolab.com/github/forks/JawadYT36/KHAN-MD?logo=repo-forked&color=9D00FF&label=Forks&style=flat-square" />  
+<img src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?color=9D00FF&label=Repo+Size&style=flat-square" />  
+<img src="https://img.shields.io/github/last-commit/JawadYT36/KHAN-MD?color=9D00FF&label=Last+Update&style=flat-square" />  
 
 </div>
 
