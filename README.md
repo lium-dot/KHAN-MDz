@@ -67,7 +67,7 @@ KHAN-MD
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #00ffff;">
-    <p style="color: #ff00ff; font-size: 16px;">📦 Next deploy using your preferred method (Heroku, Railway, etc.)</p>
+    <p style="color: #ff00ff; font-size: 16px;">📦 Next deploy using your preferred method ( Heroku, Railway, etc.)</p>
     <ul style="color: #ffffff; line-height: 1.6;">
       <li>📁 Clone or fork the repository</li>
       <li>⚙️ Add your <code>config</code> variables</li>
