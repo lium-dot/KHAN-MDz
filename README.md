@@ -14,13 +14,20 @@ KHAN-MD
 
 ---
 
-<div align="center">  
+<!-- 📊 STATS & ANIMATION (Updated Colors) -->
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Views&color=9D00FF&style=flat-square" />  
-<img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=9D00FF&label=Stars&style=flat-square" />  
-<img src="https://custom-icon-badges.demolab.com/github/forks/JawadYT36/KHAN-MD?logo=repo-forked&color=9D00FF&label=Forks&style=flat-square" />  
-<img src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?color=9D00FF&label=Repo+Size&style=flat-square" />  
-
+  <!-- GitHub Stats Badges with new color palette -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/JawadYT36?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/JawadYT36/KHAN-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/JawadYT36/KHAN-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+  </p>
+  
 </div>
 
 ---
