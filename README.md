@@ -12,7 +12,7 @@ KHAN-MD
 
 <h2 align="center">📊 KHAN-MD Analytics</h2>  
 
----
+***
 
 <!-- 📊 STATS & ANIMATION (Updated Colors) -->
 <div align="center">
@@ -147,22 +147,6 @@ KHAN-MD
     </td>
   </tr>
 </table>
-
-## 🤖 Deploy SIGMA-MD Mini
-
-> Simple pairing process - Just connect your WhatsApp and start using the bot instantly!
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://sigma-mini.vercel.app" target="_blank">
-        <img alt="Deploy Sigma MD Mini" src="https://img.shields.io/badge/Deploy%20Sigma%20MD%20Mini-FF8C00?style=for-the-badge&logo=rocket&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-> 💡 **Quick Start**: Visit the link above, pair your number, and the bot will be ready to use!
 
 <table align="center">
   <tr>
