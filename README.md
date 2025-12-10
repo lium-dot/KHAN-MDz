@@ -20,12 +20,13 @@
   padding: 12px 0;
 "> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Jawad TechX
 </div>
+</p>
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
 </h1>
-
-  <p>
+</p>
+</p>
     <img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
     <img src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
@@ -58,6 +59,7 @@
 ---
 
 <h2 align="center">🛰️ Deployment Steps</h2>
+</p>
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
 
@@ -184,9 +186,12 @@
 
 ## KHAN-MD FEATURES
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
 </p>
+</div>
+
+<div align="center">
 
 |  ⚒️ **Feature**                     | **Status** 🔰  |
 |-----------------------------------|--------------|
