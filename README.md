@@ -47,6 +47,14 @@
   <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
+***
+
+<div align="center"> 
+  <img src="https://img.shields.io/badge/WhatsApp-MultiDevice-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Multi-Device"/>    
+  <img src="https://img.shields.io/badge/Powered%20By-Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js"/>    
+  <img src="https://img.shields.io/badge/Baileys-Latest-blueviolet?style=for-the-badge" alt="Baileys"/>  
+</div>
+
 ---
 
 <h2 align="center">🛰️ Deployment Steps</h2>
@@ -174,59 +182,26 @@
 
 ---
 
-## ✨ KHAN-MD Features
-
-- 🤖 WhatsApp Multi-Device Support
-- 🔁 Anti-Delete (Text + Media)
-- 🎵 YouTube Audio Downloader
-- 📥 Media Downloader (Instagram, TikTok, etc.)
-- 🧠 AI Chatbot
-- 💬 Group Moderation Commands
-- 📛 Auto Sticker Response
-- 🎮 Word Relay & Game Plugins
-- 👮 Admin Tools (Ban, Kick, Promote)
-- 🌐 Web-based Pairing Interface
-- 📤 Sticker Maker (Image to Sticker)
-
- ## ✨ **KHAN-MD Features**
-
-<div align="center">
-
-### **🚀 Main Features**
-<img src="https://img.shields.io/badge/-WhatsApp_Multi_Device-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/-Anti_Delete_System-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-AI_Chatbot-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" />
-
-### **📱 Media Features**
-<img src="https://img.shields.io/badge/-YouTube_Downloader-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/-Social_Downloader-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sticker_Maker-FFD93D?style=for-the-badge" />
-
-### **🎮 Interactive**
-<img src="https://img.shields.io/badge/-Word_Games-4ECDC4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Auto_Sticker-9B59B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Admin_Tools-3498DB?style=for-the-badge" />
-
-</div>
-
-
-## ✨ **KHAN-MD Features**
+## KHAN-MD FEATURES
 
 <p align="center">
-  <b>A Powerful WhatsApp Bot with Cutting-Edge Features</b>
+  <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
 </p>
 
-<div align="center">
-
-| Feature Category | Description |
-|-----------------|-------------|
-| **🤖 Core Platform** | WhatsApp Multi-Device Support • Web-based Pairing Interface |
-| **🛡️ Security & Moderation** | Anti-Delete System • Group Moderation Commands • Admin Tools (Ban, Kick, Promote) |
-| **📱 Media & Content** | YouTube Audio Downloader • Media Downloader (IG, TikTok) • Sticker Maker |
-| **🎮 Interactive** | AI Chatbot • Word Relay Games • Auto Sticker Response |
+|  ⚒️ **Feature**                     | **Status** 🔰  |
+|-----------------------------------|--------------|
+| <b>🤖 Ultimate Work </b>    | Active ✅   |
+| <b>🔁 Anti-Delete</b>              | Active ✅   |
+| <b>🎵 24/7 Runtime</b>               | Active ✅   |
+| <b>📥 Downloader</b>         | Active ✅   |
+| <b>🧠 AI Chat</b>                  | Active ✅   |
+| <b>👮 Group Setting</b>         | Active ✅   |
+| <b>📛 Auto Sticker</b>             | Active ✅   |
+| <b>🎮 Games</b>                    | Active ✅   |
+| <b>🌐 Web Pairing</b>              | Active ✅   |
+| <b>🎨 Sticker Maker</b>            | Active ✅   |
 
 </div>
----
 
 <h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
 🪀 OFFICIAL SUPPORT CHANNEL
@@ -253,7 +228,7 @@
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
 
 <a href="https://github.com/JawadYT36" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=JawadYT36&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JawadYT36&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
 </a>
 
 </div>
