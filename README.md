@@ -1,23 +1,30 @@
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 4 0 10px #00FFFF, 0 0 25px #0088FF;">
-KHAN-MD
-</h1>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
-</p>
-
----
-
-<h2 align="center">📊 KHAN-MD Analytics</h2>  
-
-***
-
-<!-- 📊 STATS & ANIMATION (Updated Colors) -->
 <div align="center">
 
-  <!-- GitHub Stats Badges with new color palette -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=KHAN%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Jawad%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
+
+<div style="
+  margin-top: -60px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 1000;  /* Nuclear bold - no skimping */
+  letter-spacing: 3px;  /* Extra spacing for bold punch */
+  background: linear-gradient(90deg, #6a0dad, #ab47bc, #d896ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow:
+    0 0 12px #6a0dad,
+    0 0 24px #ab47bc,
+    0 0 36px #d896ff,
+    0 0 48px #ab47bc;
+  padding: 12px 0;
+"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Jawad TechX
+</div>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+</h1>
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
@@ -33,22 +40,6 @@ KHAN-MD
 ---
 
 > **Deploy New Version `5.0.0`**  
-
----
-
-## DEPLOY FREE ON VPS
-
-<p align="center"><strong>Limited Server 💜</strong></p>
-
-<p align="center">
-  <a href="https://jawadtech-vps.onrender.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/🚀 Deploy_Free_On_VPS-ff0000?style=for-the-badge&logo=github&logoColor=white" 
-      alt="Deploy Button"
-      width="280"
-    >
-  </a>
-</p>
 
 ---
 
@@ -197,6 +188,44 @@ KHAN-MD
 - 🌐 Web-based Pairing Interface
 - 📤 Sticker Maker (Image to Sticker)
 
+ ## ✨ **KHAN-MD Features**
+
+<div align="center">
+
+### **🚀 Main Features**
+<img src="https://img.shields.io/badge/-WhatsApp_Multi_Device-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/-Anti_Delete_System-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-AI_Chatbot-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" />
+
+### **📱 Media Features**
+<img src="https://img.shields.io/badge/-YouTube_Downloader-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/-Social_Downloader-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sticker_Maker-FFD93D?style=for-the-badge" />
+
+### **🎮 Interactive**
+<img src="https://img.shields.io/badge/-Word_Games-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Auto_Sticker-9B59B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Admin_Tools-3498DB?style=for-the-badge" />
+
+</div>
+
+
+## ✨ **KHAN-MD Features**
+
+<p align="center">
+  <b>A Powerful WhatsApp Bot with Cutting-Edge Features</b>
+</p>
+
+<div align="center">
+
+| Feature Category | Description |
+|-----------------|-------------|
+| **🤖 Core Platform** | WhatsApp Multi-Device Support • Web-based Pairing Interface |
+| **🛡️ Security & Moderation** | Anti-Delete System • Group Moderation Commands • Admin Tools (Ban, Kick, Promote) |
+| **📱 Media & Content** | YouTube Audio Downloader • Media Downloader (IG, TikTok) • Sticker Maker |
+| **🎮 Interactive** | AI Chatbot • Word Relay Games • Auto Sticker Response |
+
+</div>
 ---
 
 <h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
