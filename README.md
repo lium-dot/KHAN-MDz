@@ -231,6 +231,16 @@
 
 ---
 
+## Credits ⚒️
+
+<p><strong>Creator:</strong><br>
+JawadTechXD (Official Creator)</p>
+
+<p><strong>Co-Developer:</strong><br>
+JawadYT36 ( Helper )</p>
+
+---
+
 <h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
 🧠 DEVELOPER NOTICE
 </h2>
