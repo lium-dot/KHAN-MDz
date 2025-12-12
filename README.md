@@ -157,14 +157,14 @@
   <tr>
 <td align="center">
       <a href="https://github.com/JawadTechXD/KHANX-MD" target="_blank">
-        <img alt="GitHub Codes" src="https://img.shields.io/badge/GITHUB_WORKFLOWS-Codes-9B30FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
+        <img alt="GitHub Codes" src="https://img.shields.io/badge/GITHUB_WORKFLOW-Codes-9B30FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/JawadTechXD/KHANX-MD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD_ZIP-For_Panal-AB82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
+        <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD_ZIP-For_Panel-AB82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>
   </tr>
