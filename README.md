@@ -148,39 +148,23 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <a href="https://jawadtech-vps.onrender.com" target="_blank">
-        <img alt="Deploy Free On VPS" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
+        <img alt="VPS Deploy" src="https://img.shields.io/badge/VPS_DEPLOY-Free_Unlimited-8A2BE2?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
-    <td>
+<td align="center">
       <a href="https://github.com/JawadTechXD/KHANX-MD" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+        <img alt="GitHub Codes" src="https://img.shields.io/badge/GITHUB_WORKFLOWS-Codes-9B30FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>
   </tr>
-</table>  
-
-<table align="center">
   <tr>
-    <td>
-      <a href="https://github.com/JawadTechXD/KHANX-MD" target="_blank">
-        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>  
-
-<table align="center">
-  <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/JawadTechXD/KHANX-MD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+        <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD_ZIP-For_Panal-AB82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>
   </tr>
