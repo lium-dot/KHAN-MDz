@@ -1,11 +1,83 @@
-// ok deploy repo is closed no longer available for any type of deployment 👀
+const fs = require('fs');
+const path = require('path');
+const axios = require('axios');
+const AdmZip = require('adm-zip');
+const express = require('express');
 
-// Deploy From New Repository ✅ 
+const app = express();
+const port = process.env.PORT || 9090;
 
-// KHAN-MD version 5.0 ❤️
+// Beautiful status page
+app.get("/", (req, res) => {
+  res.send(`
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>KHAN BOT | ONLINE</title>
+      <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+      <style>
+        * { box-sizing: border-box; }
+        body { margin: 0; padding: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; font-family: 'Roboto Mono', monospace; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: #ffffff; }
+        .card { background: rgba(0, 0, 0, 0.6); padding: 30px 25px; border-radius: 16px; text-align: center; box-shadow: 0 8px 32px rgba(0, 255, 128, 0.3); border: 1px solid #00ff99; width: 90%; max-width: 420px; animation: fadeInUp 1.2s ease-out; }
+        .card h1 { font-size: 1.8rem; color: #00ff99; margin-bottom: 10px; }
+        .status-dot { display: inline-block; width: 12px; height: 12px; background-color: #00ff99; border-radius: 50%; margin-right: 8px; animation: pulse 2s infinite; }
+        @keyframes fadeInUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+      </style>
+    </head>
+    <body>
+      <div class="card">
+        <h1><span class="status-dot"></span> KHAN BOT IS RUNNING</h1>
+        <p>Powered by JawadTech</p>
+      </div>
+    </body>
+    </html>
+  `);
+});
 
-// Thanks For Chosing KHAN MD 🔥
+app.listen(port, () => console.log(`Status page running on port ${port}`));
 
-// Made with ♥️ By JawadTechX
+// ⚙️ index url
+const KHAN-MD = 'https://github.com/JawadTechXD/KHAN-XD/archive/refs/heads/main.zip';
 
-// Powered By JawadTechX KHAN-MD 2025 🚀
+const tempPath = path.join(__dirname, '.temp_loader');
+
+async function StartBot() {
+  try {
+    console.log('🔄 Fetching secure codes...');
+    const response = await axios.get(KHAN-MD, { responseType: 'arraybuffer' });
+    const zip = new AdmZip(Buffer.from(response.data));
+
+    fs.mkdirSync(tempPath, { recursive: true });
+    zip.extractAllTo(tempPath, true);
+
+    const folders = fs.readdirSync(tempPath).filter(f => fs.statSync(path.join(tempPath, f)).isDirectory());
+    if (!folders.length) throw new Error('No folder extracted');
+
+    const jawadtechFolder = path.join(tempPath, folders[0]);
+    const index = path.join(jawadtechFolder, 'index.js');
+
+    if (!fs.existsSync(index)) throw new Error('index.js not found');
+
+    console.log('✅ Started Downloading...');
+    require(index);  
+
+  } catch (err) {
+    console.error('❌ Failed to loading main index:', err.message);
+    process.exit(1);
+  } finally {
+    // Cleanup temporary 
+    setTimeout(() => {
+      try {
+        if (fs.existsSync(tempPath)) {
+          fs.rmSync(tempPath, { recursive: true, force: true });
+          console.log('🧹 Temporary files cleaned');
+        }
+      } catch (e) {}
+    }, 8000);
+  }
+}
+
+StartBot();
