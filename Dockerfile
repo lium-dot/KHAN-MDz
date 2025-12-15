@@ -1,9 +1,16 @@
 FROM node:lts-buster
-RUN git clone https://github.com/JawadYT36/KHAN-MD/root/djJawadx
-WORKDIR /root/djJawadd
-RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+
+# Set working directory
+WORKDIR /app
+
+# Copy all local files to container
 COPY . .
+
+# Install dependencies
+RUN npm install && npm install -g pm2
+
+# Expose the port your app listens on
 EXPOSE 9090
+
+# Start the app
 CMD ["npm", "start"]
-
-
