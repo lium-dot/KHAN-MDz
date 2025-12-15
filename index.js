@@ -7,7 +7,7 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 9090;
 
-// Beautiful status page
+// Status page
 app.get("/", (req, res) => {
   res.send(`
     <!DOCTYPE html>
@@ -20,10 +20,9 @@ app.get("/", (req, res) => {
       <style>
         * { box-sizing: border-box; }
         body { margin: 0; padding: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; font-family: 'Roboto Mono', monospace; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: #ffffff; }
-        .card { background: rgba(0, 0, 0, 0.6); padding: 30px 25px; border-radius: 16px; text-align: center; box-shadow: 0 8px 32px rgba(0, 255, 128, 0.3); border: 1px solid #00ff99; width: 90%; max-width: 420px; animation: fadeInUp 1.2s ease-out; }
+        .card { background: rgba(0, 0, 0, 0.6); padding: 30px 25px; border-radius: 16px; text-align: center; box-shadow: 0 8px 32px rgba(0, 255, 128, 0.3); border: 1px solid #00ff99; width: 90%; max-width: 420px; }
         .card h1 { font-size: 1.8rem; color: #00ff99; margin-bottom: 10px; }
         .status-dot { display: inline-block; width: 12px; height: 12px; background-color: #00ff99; border-radius: 50%; margin-right: 8px; animation: pulse 2s infinite; }
-        @keyframes fadeInUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
         @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
       </style>
     </head>
@@ -39,36 +38,35 @@ app.get("/", (req, res) => {
 
 app.listen(port, () => console.log(`Status page running on port ${port}`));
 
-// ⚙️ index url
-const KHAN-MD = 'https://github.com/JawadTechXD/KHAN-XD/archive/refs/heads/main.zip';
+// ✅ FIXED: Hyphen removed from variable name
+const botZipUrl = 'https://github.com/JawadTechXD/KHAN-XD/archive/refs/heads/main.zip';
 
 const tempPath = path.join(__dirname, '.temp_loader');
 
 async function StartBot() {
   try {
     console.log('🔄 Fetching secure codes...');
-    const response = await axios.get(KHAN-MD, { responseType: 'arraybuffer' });
+    const response = await axios.get(botZipUrl, { responseType: 'arraybuffer' });
     const zip = new AdmZip(Buffer.from(response.data));
 
     fs.mkdirSync(tempPath, { recursive: true });
     zip.extractAllTo(tempPath, true);
 
     const folders = fs.readdirSync(tempPath).filter(f => fs.statSync(path.join(tempPath, f)).isDirectory());
-    if (!folders.length) throw new Error('No folder extracted');
+    if (!folders.length) throw new Error('No folder extracted after unzip');
 
-    const jawadtechFolder = path.join(tempPath, folders[0]);
-    const index = path.join(jawadtechFolder, 'index.js');
+    const extractedFolder = path.join(tempPath, folders[0]);
+    const indexPath = path.join(extractedFolder, 'index.js');
 
-    if (!fs.existsSync(index)) throw new Error('index.js not found');
+    if (!fs.existsSync(indexPath)) throw new Error('index.js not found in extracted folder');
 
-    console.log('✅ Started Downloading...');
-    require(index);  
+    console.log('✅ Core loaded – Starting bot...');
+    require(indexPath);
 
   } catch (err) {
-    console.error('❌ Failed to loading main index:', err.message);
+    console.error('❌ Failed to load bot:', err.message);
     process.exit(1);
   } finally {
-    // Cleanup temporary 
     setTimeout(() => {
       try {
         if (fs.existsSync(tempPath)) {
