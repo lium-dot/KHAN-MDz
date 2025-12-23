@@ -40,7 +40,7 @@
 
 ---
 
-> **Deploy New Version `5.0.0`**  
+> **Deploy New Version `9.0.5`**  
 
 ---
 
