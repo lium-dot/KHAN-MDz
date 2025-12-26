@@ -1,5 +1,5 @@
 {
-  "name": "KHAN-XMD",
+  "name": "KHAN-MD",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
   "logo": "https://files.catbox.moe/neni8p.jpg",
   "keywords": ["KHAN-MD"],
@@ -38,7 +38,7 @@
     },
 
     "AUTO_TYPING": {
-      "description": "Show typing indicator when receiving messages. Options: 'true' (both), 'ib' (inbox only), 'group' (group only), 'false' (disabled)",
+      "description": "Show typing indicator when receiving messages. Options: 'true' (both), 'inbox' (inbox only), 'group' (group only), 'false' (disabled)",
       "required": false,
       "value": "false"
     },
@@ -51,7 +51,7 @@
     },
 
     "AUTO_RECORDING": {
-      "description": "Show recording indicator when receiving messages. Options: 'true' (both), 'ib' (inbox only), 'group' (group only), 'false' (disabled)",
+      "description": "Show recording indicator when receiving messages. Options: 'true' (both), 'inbox' (inbox only), 'group' (group only), 'false' (disabled)",
       "required": false,
       "value": "false"
     },
@@ -135,7 +135,7 @@
     }, 
 
     "ANTI_LINK": {
-      "description": "Anti-Link System Mode: 'true' (delete+remove), 'false' (disabled), 'warn' (3 warnings), 'delete' (delete only)",
+      "description": "Anti-Link System Mode: 'true' (delete+remove), 'false' (disabled), 'delete' (delete only)",
       "value": "true",
       "required": false
     },
