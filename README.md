@@ -77,7 +77,7 @@
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #00ffff;">
     <p style="color: #ff00ff; font-size: 16px;">📦 Next deploy using your preferred method ( Heroku, Railway, etc.)</p>
     <ul style="color: #ffffff; line-height: 1.6;">
-      <li>📁 Clone or fork the repository</li>
+      <li>📁 Clone or Fork the repository</li>
       <li>⚙️ Add your <code>settings</code> variables</li>
       <li>🚀 Deploy using platform buttons or manual setup</li>
     </ul>
