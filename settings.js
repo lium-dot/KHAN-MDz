@@ -1,11 +1,11 @@
 
 module.exports = {
-  SESSION_ID: "",  // add session Id 
+  SESSION_ID: "IK~H4sIAAAAAAAAA5VUy7KiSBD9l9pqtILIw4gbMaioKIovxHaiFyUUUPKuKhDs8AtmMeuJ+Zje9HpifmH+ZALvvX17Md1xh1WRFHlO5jmZn0GSYooWqAaDzyAjuIQMNUdWZwgMwLDwPERAG7iQQTAAH1cRm6iqd9Xj6ZSEXoRbVzgXQzU4whiKUXEalsEtbJnc8gnc2yArzhF2fpIw3xnkGOVTFI7LU55N51Z626ddIclys/QgFxv8VTA42dauT+DeZISY4MTXsgDFiMBogeo1xOR99J1FDD86xk2ppaXO+MwSNqm0YvtFXl2XPLbC7MJFLlSkif8++mc8qjetyBRcNQtoOHN2Vl+x2Zgb+yTB5lYPynCbXJGaLJ/pU+wnyNVdlDDM6nf3Ha6QPrM2R9XXKvc0jP3AZocTVq+zvKx1XnDWXiou5uZ2or6PeOsgUPumbnZ6OGHWLGBrTZS2nXSjY7qcHnvkMuwsFDP3ev73xNfk1Svh/+m7tVq0hlA8JqNzkHbn+n6pkMovRjXTgsUOd/QqkARrjPcxfR/9QB47vfqSrKTjxVyMq3Uddy6FMVn1Dto2dxEfclOtkIked9/oQ1aQn7E0hLmSh6txf3juGTHE2xmK9poNV0YY9Yhr4Lrb646S9DgeG+ax6K/767Rc2qZUr7hsdva3xTzq4pYdVuvxIvO0/mnq+urTo6IQ1boLBty9DQjyMWUEMpwmTUzi2gC65Q45BLFHd4GoKTNTqJgb65C61a48Wdk5d6rjbNrqHbatyznvSsPVQdaEJ9AGGUkdRClyZ5iylNRLRCn0EQWDXz+1QYIq9qxbgyZzvTbwMKHMSoosSqH7quq3r9Bx0iJhuzpxRs0BETDovoURYzjxadPIIoHECXCJRgFkFAw8GFH0rUREkAsGjBTo29iOUrfp/EhdiNymtwBtED8UwS4YAL4vSIrUUziZlwf8L/TDtckKs+xDghhog+hxq9+Vu31Z4iVZEvrNvSbcBglsMoG//vz65euXf37/7e8/mra/cG4gXMQgjmiDvhrNExSOtUXLaMnpdKpqvjryVfBW46tbnuUghi8W43jM2+4kr0vJS5fz7VUxN0dbvgz3Brxu6hNZ2NdAf/qPJGAAXKnm8/45lXG6Oxve4WiLt06/U9c3eICFFJy0UpA25Ty1K9hCw8N+cvho+fmFv0o1TPOtOZyucYVqPj9hXzBYF00r1X9q0FxUYgd9D3Y44pNph91AtsR9Ym+rQ2cd8CxyAltgk3Wc1DeZpquNXJ8s0ShmtEjy6rKfh0oadS4SpucZUgLrliSEnlohuaSHfXB99vFjjqKX/YUfFmvUa149jB7r4EWJH+j0TLfxWvfe/u7Pl7Xyg9Ecwlowid/3lSjZQkpaPXE8spz1PpxwpX61ap5qyxjWEdV34H7/1AZZBJmXkrhZnolL0gc4SYvGu3ripT8BG6m+rvn+qqk3gpSpb/OwxzGiDMYZGHCSKMmcLEri8601SbMZpAEYgN5WOfWUxty1mmU7BtnrfAG1eebUAPd/AX3IBTV7BwAA",  // add session Id 
   
-  OWNER_NUMBER: "923427582273", // add owner number 
+  OWNER_NUMBER: "254797391828", // add owner number 
   
-  PREFIX: ".", // prefix (e.g., ., /, !, *)
+  PREFIX: "¶", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "Asia/Karachi" // put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "Kenya/Nairobi" // put your country timeZone....leave blank if u don't know.
 };
 
