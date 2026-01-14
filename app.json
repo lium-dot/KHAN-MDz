@@ -152,8 +152,8 @@
       "value": "false"
     },
     
-    "MENU_IMAGE_URL": {
-      "description": "add url for mention reply and menu if want.",
+    "BOT_MEDIA_URL": {
+      "description": "URL for bot media (images/videos) used in menu and other commands. Supported formats ( .jpg, .jpeg, .png, or .mp4 )",
       "required": false,
       "value": "https://files.catbox.moe/7zfdcq.jpg"
     },
@@ -179,7 +179,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💙,🥰,💗,🥺,❤️,👻,💛,🌼,🫂,💜,🤎,🖤,🤍"
+      "value": "💙,🥰,💗,🥺,❤️,💛,🌼,🫂,💜,🤎,🖤,🤍"
     }, 
 
     "STATUS_REACT_EMOJIS": {
